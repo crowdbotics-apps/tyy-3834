@@ -1,0 +1,3 @@
+rootProject.name = 'tyy_3834'
+
+include ':app'
